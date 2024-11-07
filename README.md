@@ -22,7 +22,7 @@ Reliability is one of the main factors one takes into account when buying a new 
 ----
 # Data Preprocessing 
 - Data Collection
-The dataset used for this project was created by The National Highway Traffic Safety Administration. The dataset is a collection of complains posted by vehicle owners. It contains 19 classes and 76,383 observations. Some of the features include manufacturer’s name, model, model year, mileage, description of the complain, and so on. The file for this dataset can be found at: https://www.nhtsa.gov/nhtsa-datasets-and-apis
+  - The dataset used for this project was created by The National Highway Traffic Safety Administration. The dataset is a collection of complains posted by vehicle owners. It contains 19 classes and 76,383 observations. Some of the features include manufacturer’s name, model, model year, mileage, description of the complain, and so on. The file for this dataset can be found at: https://www.nhtsa.gov/nhtsa-datasets-and-apis
 
 - Data Cleaning
   - Data points are evaluated for correctness, datatypes, and overall uniformity
