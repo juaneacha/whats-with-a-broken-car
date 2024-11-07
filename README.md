@@ -1,4 +1,4 @@
-# What’s Broken In The Car?: Improving New Car Buying Sentiment  
+# What’s With A Broken Car?: Improving New Car Buying Sentiment  
 
 # Introduction
 Reliability is one of the main factors one takes into account when buying a new car. However, what makes a new car reliable? Exploring the complains sent to National Highway Traffic Safety Administration (NHTSA) can glean answers to this question
