@@ -5,9 +5,9 @@ Reliability is one of the main factors one takes into account when buying a new 
 
 **Concepts Applied**
 - Data preprocessing in R
-  -  Outlier detection
-  - Data Merging
-  - Data Imputation
+- Outlier detection
+- Data Merging
+- Data Imputation
     
 - Data visualization in Tableau
   - Dashboarding
