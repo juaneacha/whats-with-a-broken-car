@@ -31,11 +31,12 @@ Reliability is one of the main factors one takes into account when buying a new 
 
 # Data Processing
 - Exploratory Analysis
-  - Number of property postings by state is mapped 
-  - Average house price by state is plotted
-  - Real GDP annual growth by state is graphed
-  - Personal income annual growth by state is graphed
-  - Real GDP and personal income by state are compated
+    - Number of complaints by manufacturer are graphed
+    - Complaints per part are graphed
+    - Issues per mile and year are graphed
+    - Complaints for Zero mile vehicles are graphed
+    - Number of complaints per year are graphed
+
 
 ----
 # Dashboard
