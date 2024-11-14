@@ -54,7 +54,7 @@ The National Highway Traffic Safety Administration (NHTSA) has been collecting c
 - Most complaints revolve around airbags, electrical systems, brakes, powertrain, fuel system, and engine
 - Addressing the issues found in these areas can reduce complaints by 51.5%
 - Cars from non-American brands such as Honda, Toyota, Nissan, Hyundai, or Kia have the least number of complaints
-- Getting these parts from where non-American cars get them or at least Copying some of the manufacturing processes around these issues has the potential to reduce complaints by 51.5%
+- Getting these parts from where non-American cars get them or at least copying some of the manufacturing processes around these issues has the potential to reduce complaints by 51.5%
 
 
 
