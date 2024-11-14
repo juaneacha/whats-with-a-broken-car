@@ -1,5 +1,5 @@
 # Why do I hate this car?: Decreasing the number of complaints from new car buyers  
-
+![](wreck.jpg)
 # Introduction
 The National Highway Traffic Safety Administration (NHTSA) has been collecting customer complaints for decades. In fact, the highest number of complaints they have received has been made in the last 10 years. This can be due to several different reasons including the expansion of the car market, higher vehicle complexity, better outlets of communication for customers, and so on. This project aims to find the reasons behind those complaints and to come up with ways to reduce it.
 
@@ -28,7 +28,8 @@ The National Highway Traffic Safety Administration (NHTSA) has been collecting c
   - Data points are evaluated for correctness, datatypes, and overall uniformity
   - Outliers are dropped from the dataset
   - Null values are imputed and dropped when needed
-
+- Raw Data Snapshot
+  ![](cardata.png)
 # Data Processing
 - Exploratory Analysis
     - The number of complaints by the manufacturer is graphed
@@ -40,7 +41,10 @@ The National Highway Traffic Safety Administration (NHTSA) has been collecting c
 
 ----
 # Dashboard
-
+![](cardash.png)
+<p align="center">
+ <a href="https://public.tableau.com/views/complaintsoncars/WhyDoCustomersComplainAboutNewCars?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View In Tableau</a>
+</p>
 ----
 # Results
 - Most complaints from new car owners happen when they receive the car at 0 miles
