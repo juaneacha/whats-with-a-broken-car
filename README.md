@@ -45,7 +45,7 @@ The National Highway Traffic Safety Administration (NHTSA) has been collecting c
 <p align="center">
  <a href="https://public.tableau.com/views/complaintsoncars/WhyDoCustomersComplainAboutNewCars?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View In Tableau</a>
 </p>
-----
+
 # Results
 - Most complaints from new car owners happen when they receive the car at 0 miles
 - The most common issue with brand new cars is the Air Bags system followed by the electrical system, brakes, powertrain, fuel system, and engine
