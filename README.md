@@ -1,4 +1,4 @@
-# What’s With A Broken Car?: Decreasing the number of complaints from new car buyers  
+# Why do I hate this car?: Decreasing the number of complaints from new car buyers  
 
 # Introduction
 The National Highway Traffic Safety Administration (NHTSA) has been collecting customer complaints for decades. In fact, the highest number of complaints they have received has been made in the last 10 years. This can be due to several different reasons including the expansion of the car market, higher vehicle complexity, better outlets of communication for customers, and so on. This project aims to find the reasons behind those complaints and to come up with ways to reduce it.
